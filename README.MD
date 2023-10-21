@@ -28,8 +28,4 @@
 </div>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sknasirhussain/sknasirhussain/output/snake.svg" alt="Snake animation" />
-
 ###
